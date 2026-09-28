@@ -1,0 +1,9 @@
+ID=auto-orb-multi
+MAIN=index.js
+NAME=AutoOrbMulti
+DESCRIPTION=Farm de quests Discord multi-usuário
+VERSION=1.0.0
+AVATAR=
+TYPE=bot
+RAM=256
+AUTORESTART=true
